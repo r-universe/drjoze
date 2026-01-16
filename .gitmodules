@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "drgee"]
 	path = drgee
-	url = https://github.com/cran/drgee
+	url = https://github.com/drjoze/drgee
